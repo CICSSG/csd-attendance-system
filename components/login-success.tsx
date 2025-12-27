@@ -121,8 +121,8 @@ function LoginSuccess({
 
 export default LoginSuccess;
 
-// const name = () => {}
-// function name(){}
+// const name = () => {} 
+// function name(){} - component
 
 // {condition && return if true}
 // {condition ? true : false}
