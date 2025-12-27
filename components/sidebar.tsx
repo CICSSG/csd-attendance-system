@@ -31,7 +31,7 @@ export default function AdminSidebar() {
             </div>
             <Link
                 href=""
-                className=" flex flex-row gap-2 text-lg items-center p-5 hover:bg-[#ca3a3a] rounded-lg px-3 py-3"
+                className="bg-white text-[#ca3a3a]/90 flex flex-row gap-2 text-lg items-center p-5 hover:bg-[#ca3a3a] hover:text-white rounded-lg px-3 py-3 transition-colors duration-150"
             >
                 <LogOut />
                 Log out
